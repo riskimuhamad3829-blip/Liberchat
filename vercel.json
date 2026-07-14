@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd Liberchat && npm run build",
-  "outputDirectory": "Liberchat/.next",
-  "installCommand": "cd Liberchat && npm install"
-}
-
